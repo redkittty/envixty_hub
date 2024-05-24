@@ -2,4 +2,4 @@
 #+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
 #+OPTIONS: num:nil ^:{}
 
-Waiting for more pages
+[[https://github.com/redkittty/redkittty.github.io/blob/main/blog/main.org][Blog (Testing Org)]]
