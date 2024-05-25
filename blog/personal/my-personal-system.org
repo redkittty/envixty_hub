@@ -12,7 +12,7 @@ Yes I know you are gonna say that it is infact "GNU/Linux"
 
 I know it is actually GNU/Linux
 
-The Linux Distro I use is Arch Linux (btw): [[~/Documents/Code/web/envixty-hub/img/arch.png]]
+The Linux Distro I use is Arch Linux (btw): [[https://redkittty.github.io/img/arch.png]]
 
 |                      FEATURES                     |
 |---------------------------------------------------|
