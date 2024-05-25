@@ -36,7 +36,7 @@ I am both a gamer, and a free software user.
 
 ** Blog Posts
 
-Nothing here will have blogs soon
+| [[https://redkittty.github.io/blogs/personal/my-personal-system.html][My Personal System]] |
 
 ** User-Blog Posts
 
