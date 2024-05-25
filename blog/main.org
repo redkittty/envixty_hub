@@ -6,7 +6,7 @@
 
 * Blogs
 ** My Blogs
-Empty
+| [[https://redkittty.github.io/blogs/personal/my-personal-system.html][My Personal System]] |
 
 ** Community Blogs
 Empty

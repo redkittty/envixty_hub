@@ -2,4 +2,4 @@
 #+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
 #+OPTIONS: num:nil ^:{}
 
-[[https://redkittty.github.io/blog/main.html][Blog (Testing)]]
+[[https://redkittty.github.io][Home]] [[https://redkittty.github.io/blog/main.html][Blog]]
