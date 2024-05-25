@@ -1,7 +1,7 @@
 #+description: My personal system
 #+options: num:nil ^:{}
 #+SETUPFILE: ~/Documents/Code/web/envixty-hub/org-html-themes/org/theme-readtheorg.setup
-#+INCLUDE: ~/Documents/Code/web/envixty-hub/header.org
+#+INCLUDE: https://redkittty.github.io/header.org
 #+TITLE: Envixty's Hub
 
 * My Personal System
