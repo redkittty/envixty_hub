@@ -70,3 +70,5 @@ Here are the reasons why
 | Faster (This is due to it only being POSIX) |
 
 Instead of using SUDO I use DOAS, this is because it is less bloated
+
+#+INCLUDE: ~/Documents/Code/web/envixty-hub/footer.org

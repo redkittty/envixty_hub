@@ -1,0 +1,10 @@
+#+DESCRIPTION: Header
+#+SETUPFILE: ~/Documents/Code/web/envixty-hub/org-html-themes/org/theme-readtheorg-local.setup
+#+OPTIONS: num:nil ^:{}
+
+* Footer
+Copyright © 2024 Jason Kirkpatrick (Envixty (redkittty on Github))
+
+This page is licensed under a [[https://github.com/redkittty/redkittty.github.io/blob/main/LICENSE][MIT License]].
+
+The source code for Envixty's Hub can be found on [[https://github.com/redkittty/redkittty.github.io][Github]].  User-submitted contributions to the site are welcome, as long as the contributor agrees to license their submission with the MIT license.

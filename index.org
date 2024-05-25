@@ -51,3 +51,6 @@ Here are the requirements:
 3. Cannot be plagarized
 
 4. Cannot contain content in regular blog posts
+
+
+#+INCLUDE: ~/Documents/Code/web/envixty-hub/footer.org

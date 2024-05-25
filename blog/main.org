@@ -10,3 +10,5 @@
 
 ** Community Blogs
 Empty
+
+#+INCLUDE: ~/Documents/Code/web/envixty-hub/footer.org
