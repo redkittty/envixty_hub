@@ -4,7 +4,7 @@
 #+INCLUDE: ~/Documents/Code/web/envixty-hub/header.org
 #+TITLE: Welcone to Envixty's Hub
 
-* Envixty's Home Page
+* Envixty's Hub
 ** About
 This website is my personal website I made inside of [[https://github.com/doomemacs/doomemacs][Doom Emacs]] with [[https://orgmode.org/][Org-mode]], And spiced up by using [[https://github.com/fniessen/org-html-themes][Org-HTML-Themes]]!
 
