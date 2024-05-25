@@ -2,7 +2,7 @@
 #+options: num:nil ^:{}
 #+SETUPFILE: ~/Documents/Code/web/envixty-hub/org-html-themes/org/theme-readtheorg.setup
 #+INCLUDE: ~/Documents/Code/web/envixty-hub/header.org
-#+TITLE: Envixty's Hub
+#+TITLE: Welcome to Envixty's Hub
 
 * Blogs
 ** My Blogs
