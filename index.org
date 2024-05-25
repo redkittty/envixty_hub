@@ -46,11 +46,12 @@ Here are the requirements:
 
 1. Has to be an org-document, cannot be HTML or MARKDOWN
 
-2. Has to use the Blog Post Template as a base (Will Post later)
+2. Has to use the Blog Post Template as a base: [[https://github.com/redkittty/redkittty.github.io/blob/main/blog/community/template.org][Template Here]]
 
 3. Cannot be plagarized
 
 4. Cannot contain content in regular blog posts
 
+5. Has to be licensed under MIT License
 
 #+INCLUDE: ~/Documents/Code/web/envixty-hub/footer.org
