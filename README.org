@@ -1,0 +1,14 @@
+#+TITLE: Envixty's Hub
+#+DESCRIPTION: My personal website's README
+
+[[https://redkittty.github.io/title.png]]
+
+This repository is the source code for my personal website [[https://redkittty.github.io][Envixty's Hub]],
+
+I am hosting the site using Github Pages as it is:
+
+1. Free as in cost
+
+2. Allows actual code instead of using a user-friendly website generator
+
+3. Gives you a clean url <github-username>.github.io
