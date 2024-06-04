@@ -1,8 +1,8 @@
 #+description: Welcome to my personal website
 #+options: num:nil ^:{}
-#+SETUPFILE: ~/Documents/Code/web/envixty-hub/org-html-themes/org/theme-readtheorg-local.setup
+#+SETUPFILE: ~/Documents/Code/web/envixty-hub/org-html-themes/org/theme-readtheorg.setup
 #+INCLUDE: ~/Documents/Code/web/envixty-hub/header.org
-#+TITLE: Welcome to Envixty's Hub`
+#+TITLE: Welcome to Envixty's Hub
 
 * Envixty-OS
 Envixty-OS is a collection of scripts to make you the coolest heckerman in town, This collection of shell scripts will turn your computer into the coolest computer in town.
