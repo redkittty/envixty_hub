@@ -1,0 +1,50 @@
+#+TITLE: Welcome to Envixty's Hub`
+#+description: Welcome to my personal website
+#+options: num:nil ^:{}
+#+SETUPFILE: ~/Documents/Code/web/envixty-hub/org-html-themes/org/theme-readtheorg-local.setup
+#+INCLUDE: ~/Documents/Code/web/envixty-hub/header.org
+
+* Envixty-OS
+Envixty-OS is a collection of scripts to make you the coolest heckerman in town, This collection of shell scripts will turn your computer into the coolest computer in town.
+
+[[https://redkittty.github.io/img/hacker.png]]
+
+Don't Mind the sarcasm, Envixty-OS is basically a collection of scripts to make your computer like mine.
+
+That doesn't mean it's mine, it means that YOUR computer looks and functions like my Computer.
+
+This Script only supports Arch Linux and it's derivatives
+
+* Software in Envixty-OS
+A good OS wouldn't be that without software, heck a tty arch system needs base software like the Linux Kernel, and GNU Core-Utils.
+
+Here is all the major software in Envixty-OS:
+
+** AwesomeWM
+Like GNOME on Ubuntu/Fedora, AwesomeWM is the flagship Window Manager on envixty-os, AwesomeWM is a dynamic, tiling window manager. AwesomeWM is fully configured in Lua. I have plenty of configuration done on AwesomeWM compared to the defaults
+
+[[https://redkittty.github.io/img/desktop.png]]
+
+** Doom Emacs
+Doom Emacs is a distribution of Emacs designed for VIM users with Evil Mode, Doom Emacs is my primary text editor of choice.
+
+Emacs is more than a text editor though, it is a file manager, calendar, terminal emulator, RSS Reader, note-taking software, etc. It is truly whatever you want it to be.
+
+[[https://redkittty.github.io/img/emacs-conf.png]]
+
+** ST
+ST (Suckless Simple Terminal) is a terminal emulator made to be minimalist by default, the way you configure it is by patching the software, The idea is that you start out with nothing and since you patch the features you want into ST, it is tailored to your wants and needs.
+
+Here are the patches I made so far
+
+|-----------------------------------------------------------------------------|
+| Patches                                                                     |
+|-----------------------------------------------------------------------------|
+| desktopentry (Adds a desktop entry)                                         |
+| scrollback (Allows you to scroll back)                                      |
+| xresources (Allows you to use your .Xresources file for configuring colors) |
+|-----------------------------------------------------------------------------|
+
+[[https://redkittty.github.io/img/st.png]]
+
+#+INCLUDE: ~/Documents/Code/web/envixty-hub/footer.org

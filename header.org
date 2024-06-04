@@ -2,4 +2,4 @@
 #+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
 #+OPTIONS: num:nil ^:{}
 
-| [[https://redkittty.github.io][Home]] | [[https://redkittty.github.io/blog/][Blog]] | [[https://github.com/redkittty/dotfiles][Dotfiles]] |
+| [[https://redkittty.github.io][Home]] | [[https://redkittty.github.io/blog/][Blog]] | [[https://redkittty.github.io/page/envixty-os.html][envixty-os]] |
