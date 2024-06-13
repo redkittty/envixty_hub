@@ -1,6 +1,6 @@
 #+description: Welcome to my personal website
 #+options: num:nil ^:{}
-#+SETUPFILE: ~/Documents/Code/web/envixty-hub/org-html-themes/org/theme-readtheorg-local.setup
+#+SETUPFILE: ~/Documents/Code/web/envixty-hub/org-html-themes/org/theme-readtheorg.setup
 #+INCLUDE: ~/Documents/Code/web/envixty-hub/header.org
 #+TITLE: Welcome to Envixty's Hub
 
