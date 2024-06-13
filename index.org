@@ -39,7 +39,7 @@ I am both a gamer, and a free software user.
 
 ** Blog Posts
 
-| [[https://redkittty.github.io/blog/personal/my-personal-system.html][My Personal System]] |
+| [[https://redkittty.github.io/blog/personal/my-personal-system/index.html][My Personal System]] |
 
 ** User-Blog Posts
 

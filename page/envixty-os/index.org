@@ -5,7 +5,7 @@
 #+TITLE: Welcome to Envixty's Hub
 
 * Envixty-OS
-Envixty-OS is a collection of scripts to make you the coolest heckerman in town, This collection of shell scripts will turn your computer into the coolest computer in town.
+[[https://github.com/redkittty/envixty-os][Envixty-OS]] is a collection of scripts to make you the coolest heckerman in town, This collection of shell scripts will turn your computer into the coolest computer in town.
 
 [[https://redkittty.github.io/img/hacker.png]]
 
