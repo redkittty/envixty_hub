@@ -1,7 +1,7 @@
 #+TITLE: Envixty's Hub
 #+DESCRIPTION: My personal website's README
 
-[[https://redkittty.github.io/title.png]]
+[[https://redkittty.github.io/img/title.png]]
 
 This repository is the source code for my personal website [[https://redkittty.github.io][Envixty's Hub]],
 
