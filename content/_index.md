@@ -2,7 +2,7 @@
 title = "Envixty's Hub"
 +++
 
-# Hello World
+# Hello World!
 
 This is my personal website I made inside of [Hugo](https://gohugo.io/)
 
