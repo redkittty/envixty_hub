@@ -17,11 +17,20 @@ I am both a gamer, and a free software user.
 - [DWM](https://dwm.suckless.org), A Minimalist, Dynamic, Tiling Window Manager configured via editing the source code
 - [ST](https://st.suckless.org), A Minimalist, Terminal Emulator configured via editing the source code
 
-# Envixty on the Web
+# My Stuff
 
-| Other Websites I am on |
-|--------------------|
-| [Youtube](https://www.youtube.com/@-envixty) |
-| [Odysee](https://odysee.com/@envixty:e) |
-| [Twitch](https://twitch.tv/envixty_) |
-| [Mastodon (mastodon.social)](https://mastodon.social/@envixty) |
+### Pages
+- [Blog](/blogs)
+- [RSS](/index.xml)
+
+### Envixty on the Web
+- [Github](https://github.com/redkittty)
+- [Youtube](https://www.youtube.com/@-envixty)
+- [Twitch](https://twitch.tv/envixty_)
+- [Mastodon (mastodon.social)](https://mastodon.social/@envixty)
+
+# Blog Posts
+
+- Aug 07 24 - [Switching Over to Hugo](/blogs/03-switching-to-hugo)
+- Aug 07 24 - [My Clay Pot Making Experience](/blogs/02-the-pot-making-experience)
+- Aug 07 24 - [My Personal System](/blogs/01-my-personal-system)
