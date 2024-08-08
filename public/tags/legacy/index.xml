@@ -11,6 +11,53 @@
 	
 	
 	<item>
+		<title>The Suckless Experience</title>
+		<link>http://localhost:1313/blogs/04-the-suckless-experience/</link>
+		<pubDate>Thu, 08 Aug 2024 15:14:19 -0400</pubDate>
+		
+		<guid>http://localhost:1313/blogs/04-the-suckless-experience/</guid>
+		<description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;So, after using AwesomeWM/Qtile on Arch Linux, I decided to try out Fedora for a little while with the KDE Desktop Environment.&lt;/p&gt;
+&lt;p&gt;Once I was done using KDE, I decided to switch back to Arch Linux and I decided to try out DWM.&lt;/p&gt;
+&lt;h1 id=&#34;what-is-suckless&#34;&gt;What is Suckless&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://suckless.org&#34;&gt;Suckless&lt;/a&gt; is a software development group that focuses on making small, minimalistic programs for the Linux/BSD Desktop.&lt;/p&gt;
+&lt;p&gt;By Default, Suckless programs are very minimal with barely any features, the way you can add these missing features is through patching.&lt;/p&gt;
+&lt;p&gt;By using pre-existing patches that modify the code, you can essentially make your own program.&lt;/p&gt;
+&lt;h1 id=&#34;help-i-cant-install-a-suckless-program&#34;&gt;Help, I can&amp;rsquo;t install a suckless program&lt;/h1&gt;
+&lt;p&gt;Calm down, the reason why is because the package maintainers for your distro decided not to package it.&lt;/p&gt;
+&lt;p&gt;Why? Because the way you configure suckless programs is different from other programs.&lt;/p&gt;
+&lt;p&gt;Unlike other programs that use config files, Suckless Programs have you directly edit the source code of the program.&lt;/p&gt;
+&lt;p&gt;The &amp;ldquo;config&amp;rdquo; file in suckless programs is basically just a C Header file&lt;/p&gt;
+&lt;h1 id=&#34;why-is-it-like-this&#34;&gt;Why is it like this?&lt;/h1&gt;
+&lt;p&gt;Since all the configuration is done through the source code before compilation, your program probably will run faster due to it not having to read a config file that can change at any time.&lt;/p&gt;
+&lt;h1 id=&#34;what-suckless-programs-do-i-use&#34;&gt;What Suckless Programs do I use&lt;/h1&gt;
+&lt;p&gt;Programs I use (links lead to my build of the programs):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/redkittty/dwm-envixty&#34;&gt;DWM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/redkittty/st-envixty&#34;&gt;ST&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/redkittty/tabbed-envixty&#34;&gt;Tabbed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;dwm&#34;&gt;DWM&lt;/h1&gt;
+&lt;p&gt;DWM - Dynamic Window Manager is probably the most bloated suckless software, but it is also the most enjoyable to use.&lt;/p&gt;
+&lt;p&gt;The reason why it&amp;rsquo;s the most bloated is because DWM has some features you wouldn&amp;rsquo;t need for just a Window Manager.&lt;/p&gt;
+&lt;p&gt;An example of this is the fact DWM includes a bar by default when it isn&amp;rsquo;t needed (Xmonad doesn&amp;rsquo;t have one by default)&lt;/p&gt;
+&lt;p&gt;This is not to downplay DWM though as it is still a great peice of software.&lt;/p&gt;
+&lt;p&gt;Here is my current build of DWM:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/dwm.png&#34; alt=&#34;DWM Build&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;st&#34;&gt;ST&lt;/h1&gt;
+&lt;p&gt;ST - Simple Terminal is a terminal emulator that is minimalistic while still supporting things like Unicode characters pretty well.&lt;/p&gt;
+&lt;p&gt;The only patch I added to ST is the ability to scrollback.&lt;/p&gt;
+&lt;p&gt;The special thing about ST (for me) is that, I was using ST when I was still using AwesomeWM/Qtile&lt;/p&gt;
+&lt;h1 id=&#34;tabbed&#34;&gt;Tabbed&lt;/h1&gt;
+&lt;p&gt;Tabbed is a program that allows you to add tabs to any program by running the program inside of Tabbed.&lt;/p&gt;
+&lt;p&gt;I really only use tabbed to get tabs inside of ST&lt;/p&gt;
+&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;So far, I have had fun with using Suckless Programs.&lt;/p&gt;
+&lt;p&gt;I think everybody should atleast give Suckless Programs a chance and actually try them and see how they like it.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Switching over to Hugo</title>
 		<link>http://localhost:1313/blogs/03-switching-to-hugo/</link>
 		<pubDate>Wed, 07 Aug 2024 16:38:01 -0400</pubDate>

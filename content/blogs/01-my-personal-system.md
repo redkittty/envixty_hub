@@ -1,7 +1,7 @@
 +++
 title = 'My Personal System'
 date = 2024-08-07T16:10:31-04:00
-tags = ["blog","legacy"]
+tags = ["blog","legacy","linux","tech"]
 +++
 
 # Operating System

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<title>The Suckless Experience | Envixty&#39;s Hub</title>
+	<link rel="canonical" href="http://localhost:1313/">
+	<link rel='alternate' type='application/rss+xml' title="Envixty&#39;s Hub RSS" href='/index.xml'>
+	<link rel='stylesheet' type='text/css' href='/style.css'>
+	<link rel="icon" href="/favicon.ico">
+	<meta name="description" content="Introduction So, after using AwesomeWM/Qtile on Arch Linux, I decided to try out Fedora for a little while with the KDE Desktop Environment.
+Once I was done using KDE, I decided to switch back to Arch Linux and I decided to try out DWM.
+What is Suckless Suckless is a software development group that focuses on making small, minimalistic programs for the Linux/BSD Desktop.
+By Default, Suckless programs are very minimal with barely any features, the way you can add these missing features is through patching.">
+	<meta name="keywords" content="blog, linux, tech">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="index, follow">
+	<meta charset="utf-8">
+</head>
+<body>
+<main>
+<header><h1 id="tag_The Suckless Experience">The Suckless Experience</h1></header>
+<article>
+
+<h1 id="introduction">Introduction</h1>
+<p>So, after using AwesomeWM/Qtile on Arch Linux, I decided to try out Fedora for a little while with the KDE Desktop Environment.</p>
+<p>Once I was done using KDE, I decided to switch back to Arch Linux and I decided to try out DWM.</p>
+<h1 id="what-is-suckless">What is Suckless</h1>
+<p><a href="https://suckless.org">Suckless</a> is a software development group that focuses on making small, minimalistic programs for the Linux/BSD Desktop.</p>
+<p>By Default, Suckless programs are very minimal with barely any features, the way you can add these missing features is through patching.</p>
+<p>By using pre-existing patches that modify the code, you can essentially make your own program.</p>
+<h1 id="help-i-cant-install-a-suckless-program">Help, I can&rsquo;t install a suckless program</h1>
+<p>Calm down, the reason why is because the package maintainers for your distro decided not to package it.</p>
+<p>Why? Because the way you configure suckless programs is different from other programs.</p>
+<p>Unlike other programs that use config files, Suckless Programs have you directly edit the source code of the program.</p>
+<p>The &ldquo;config&rdquo; file in suckless programs is basically just a C Header file</p>
+<h1 id="why-is-it-like-this">Why is it like this?</h1>
+<p>Since all the configuration is done through the source code before compilation, your program probably will run faster due to it not having to read a config file that can change at any time.</p>
+<h1 id="what-suckless-programs-do-i-use">What Suckless Programs do I use</h1>
+<p>Programs I use (links lead to my build of the programs):</p>
+<ul>
+<li><a href="https://github.com/redkittty/dwm-envixty">DWM</a></li>
+<li><a href="https://github.com/redkittty/st-envixty">ST</a></li>
+<li><a href="https://github.com/redkittty/tabbed-envixty">Tabbed</a></li>
+</ul>
+<h1 id="dwm">DWM</h1>
+<p>DWM - Dynamic Window Manager is probably the most bloated suckless software, but it is also the most enjoyable to use.</p>
+<p>The reason why it&rsquo;s the most bloated is because DWM has some features you wouldn&rsquo;t need for just a Window Manager.</p>
+<p>An example of this is the fact DWM includes a bar by default when it isn&rsquo;t needed (Xmonad doesn&rsquo;t have one by default)</p>
+<p>This is not to downplay DWM though as it is still a great peice of software.</p>
+<p>Here is my current build of DWM:</p>
+<p><img src="/img/dwm.png" alt="DWM Build"></p>
+<h1 id="st">ST</h1>
+<p>ST - Simple Terminal is a terminal emulator that is minimalistic while still supporting things like Unicode characters pretty well.</p>
+<p>The only patch I added to ST is the ability to scrollback.</p>
+<p>The special thing about ST (for me) is that, I was using ST when I was still using AwesomeWM/Qtile</p>
+<h1 id="tabbed">Tabbed</h1>
+<p>Tabbed is a program that allows you to add tabs to any program by running the program inside of Tabbed.</p>
+<p>I really only use tabbed to get tabs inside of ST</p>
+<h1 id="conclusion">Conclusion</h1>
+<p>So far, I have had fun with using Suckless Programs.</p>
+<p>I think everybody should atleast give Suckless Programs a chance and actually try them and see how they like it.</p>
+
+
+<div id="nextprev">
+<a href="/blogs/03-switching-to-hugo/"><div id="prevart">Previous:<br>Switching over to Hugo</div></a>
+</div>
+<div style="clear:both" class=taglist>Related<br><a id="tag_blog" href="http://localhost:1313/tags/blog">Blog</a> &middot; <a id="tag_linux" href="http://localhost:1313/tags/linux">Linux</a> &middot; <a id="tag_tech" href="http://localhost:1313/tags/tech">Tech</a></div>
+</article>
+</main>
+
+<footer>
+	<a href="http://localhost:1313/">http://localhost:1313/</a><br><br><a href="/index.xml"><img src="/rss.svg" style="max-height:1.5em" alt="RSS Feed" title="Subscribe via RSS for updates."></a>
+</footer>
+
+</body>
+</html>

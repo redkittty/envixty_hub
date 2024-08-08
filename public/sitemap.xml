@@ -3,18 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/tags/blog/</loc>
-    <lastmod>2024-08-07T16:38:01-04:00</lastmod>
+    <lastmod>2024-08-08T15:14:19-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/</loc>
-    <lastmod>2024-08-07T16:38:01-04:00</lastmod>
+    <lastmod>2024-08-08T15:14:19-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-07T16:38:01-04:00</lastmod>
+    <lastmod>2024-08-08T15:14:19-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/03-switching-to-hugo/</loc>
-    <lastmod>2024-08-07T16:38:01-04:00</lastmod>
+    <loc>http://localhost:1313/tags/linux/</loc>
+    <lastmod>2024-08-08T15:14:19-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-08-08T15:14:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tech/</loc>
+    <lastmod>2024-08-08T15:14:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/04-the-suckless-experience/</loc>
+    <lastmod>2024-08-08T15:14:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/03-switching-to-hugo/</loc>
     <lastmod>2024-08-07T16:38:01-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/legacy/</loc>
