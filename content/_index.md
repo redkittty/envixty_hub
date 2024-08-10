@@ -31,7 +31,7 @@ I am both a gamer, and a free software user.
 
 # Blog Posts
 
-- Aug 08 24 - [The Suckless Experience](/blogs/04-the-suckless-experience)
-- Aug 07 24 - [Switching Over to Hugo](/blogs/03-switching-to-hugo)
-- Aug 07 24 - [My Clay Pot Making Experience](/blogs/02-the-pot-making-experience)
-- Aug 07 24 - [My Personal System](/blogs/01-my-personal-system)
+- 2024 Aug 08 - [The Suckless Experience](/blogs/04-the-suckless-experience)
+- 2024 Aug 07 - [Switching Over to Hugo](/blogs/03-switching-to-hugo)
+- 2024 Aug 07 - [My Clay Pot Making Experience](/blogs/02-the-pot-making-experience)
+- 2024 Aug 07 - [My Personal System](/blogs/01-my-personal-system)
