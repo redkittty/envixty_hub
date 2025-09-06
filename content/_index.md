@@ -1,21 +1,20 @@
 +++
-title = "Envixty's Hub"
+title = "Vixbe's Hub"
 +++
-
-# Hello World!
+---
+[Home](/) | [Blogs](/blogs) | [Links](/misc/links)
+---
+# Hello!
 
 This is my personal website I made inside of [Hugo](https://gohugo.io/)
 
-I am both a gamer, and a free software user.
+I am somebody who likes to tinker with technology and play video games
 
-🕹 My favorite video game right now is between [Counter-Strike 2](https://www.counter-strike.net), and [Minecraft](https://minecraft.net)
-
-💾 I use multiple peices of Free Software like:
-- [Neovim](https://neovim.io/), An extensible, terminal based text-editor
-- [Arch Linux](https://archlinux.org), A distribution of the GNU/Linux system that is a rolling release so I get the newest software first
-- [Git](https://git-scm.com), Version-Control software for programming, Used on sites like [Github](https://github.com), and [Gitlab](https://gitlab.com)
-- [DWM](https://dwm.suckless.org), A Minimalist, Dynamic, Tiling Window Manager configured via editing the source code
-- [ST](https://st.suckless.org), A Minimalist, Terminal Emulator configured via editing the source code
+Some of my favorite video games are:
+- CS2
+- Minecraft
+- The Sonic games
+- [Ages of Confict: World War Simulator](https://store.steampowered.com/app/2186320/Ages_of_Conflict_World_War_Simulator/) (Trust Me bro)
 
 # My Stuff
 
@@ -23,11 +22,11 @@ I am both a gamer, and a free software user.
 - [Blog](/blogs)
 - [RSS](/index.xml)
 
-### Envixty on the Web
+### [Envixty on the Web](/misc/links)
+- [Youtube](https://youtube.com/@itsvixbe)
+- [Twitch](https://twitch.tv/itsvixbe)
+- [Tiktok](https://tiktok.com/@itsvixbe)
 - [Github](https://github.com/redkittty)
-- [Youtube](https://www.youtube.com/@-envixty)
-- [Twitch](https://twitch.tv/envixty_)
-- [Mastodon (mastodon.social)](https://mastodon.social/@envixty)
 
 # Blog Posts
 

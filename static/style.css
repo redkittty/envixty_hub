@@ -1,7 +1,7 @@
 body {
 	font-family: sans-serif ;
-	background: #282828 ;
-	color: #ebdbb2 ;
+	background: #000000 ;
+	color: #289313 ;
 }
 
 main {
@@ -45,7 +45,7 @@ footer {
 }
 
 a {
-   color: #83A598 ;
+   color: #272384 ;
 }
 
 a:visited {

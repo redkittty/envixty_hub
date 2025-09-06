@@ -3,6 +3,9 @@ title = 'My Personal System'
 date = 2024-08-07T16:10:31-04:00
 tags = ["blog","legacy","linux","tech"]
 +++
+---
+[Home](/) | [Blogs](/blogs) | [Links](/misc/links)
+---
 
 # Operating System
 I use Linux as my main Operating System
@@ -11,7 +14,7 @@ Yes I know you are gonna say that it is infact "GNU/Linux"
 
 I know it is actually GNU/Linux
 
-The Linux Distro I use is Arch Linux (btw): ![Arch Logo](/img/arch.png)
+The Linux Distro I use is Arch Linux (btw): ![Arch Logo](/img/01-my-personal-system/arch.png)
 
 |                      FEATURES                     |
 |---------------------------------------------------|
@@ -33,7 +36,7 @@ Here is why:
 
 Here is a screenshot of my AwesomeWM config:
 
-![Old Dotfiles](/img/dotfiles1.png)
+![Old Dotfiles](/img/01-my-personal-system/dotfiles1.png)
 
 # Utilities
 ## Basic Utils

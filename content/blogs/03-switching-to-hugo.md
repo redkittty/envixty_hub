@@ -3,6 +3,9 @@ title = 'Switching over to Hugo'
 date = 2024-08-07T16:38:01-04:00
 tags = ["blog","tech"]
 +++
+---
+[Home](/) | [Blogs](/blogs) | [Links](/misc/links)
+---
 
 # Introduction
 

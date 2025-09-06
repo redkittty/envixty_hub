@@ -3,6 +3,9 @@ title = "The Suckless Experience"
 date = 2024-08-08T15:14:19-04:00
 tags = ["blog","linux","tech"]
 +++
+---
+[Home](/) | [Blogs](/blogs) | [Links](/misc/links)
+---
 
 # Introduction
 
@@ -51,7 +54,7 @@ This is not to downplay DWM though as it is still a great peice of software.
 
 Here is my current build of DWM:
 
-![DWM Build](/img/dwm.png)
+![DWM Build](/img/04-the-suckless-experience/dwm.png)
 
 # ST
 
