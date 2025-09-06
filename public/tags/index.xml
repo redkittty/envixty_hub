@@ -1,23 +1,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Vixbe&#39;s Hub</title>
-	<link>http://localhost:1313/tags/</link>
+	<link>http://localhost:46213/tags/</link>
 	<description>Recent content in Tags on Vixbe&#39;s Hub</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
 	<lastBuildDate>Fri, 05 Sep 2025 22:17:18 -0400</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:46213/tags/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>Links</title>
-		<link>http://localhost:1313/misc/links/</link>
+		<link>http://localhost:46213/misc/links/</link>
 		<pubDate>Fri, 05 Sep 2025 22:17:18 -0400</pubDate>
 		
-		<guid>http://localhost:1313/misc/links/</guid>
+		<guid>http://localhost:46213/misc/links/</guid>
 		<description>&lt;hr&gt;
-&lt;h2 id=&#34;home--blogs--links&#34;&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Home&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/blogs&#34;&gt;Blogs&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/misc/links&#34;&gt;Links&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;home--blogs--links&#34;&gt;&lt;a href=&#34;http://localhost:46213/&#34;&gt;Home&lt;/a&gt; | &lt;a href=&#34;http://localhost:46213/blogs&#34;&gt;Blogs&lt;/a&gt; | &lt;a href=&#34;http://localhost:46213/misc/links&#34;&gt;Links&lt;/a&gt;&lt;/h2&gt;
 &lt;h1 id=&#34;links-to-all-platforms&#34;&gt;Links to all platforms&lt;/h1&gt;
 &lt;p&gt;Here are links to all my socials&lt;/p&gt;
 &lt;ul&gt;
@@ -31,12 +31,12 @@
 	
 	<item>
 		<title>The Suckless Experience</title>
-		<link>http://localhost:1313/blogs/04-the-suckless-experience/</link>
+		<link>http://localhost:46213/blogs/04-the-suckless-experience/</link>
 		<pubDate>Thu, 08 Aug 2024 15:14:19 -0400</pubDate>
 		
-		<guid>http://localhost:1313/blogs/04-the-suckless-experience/</guid>
+		<guid>http://localhost:46213/blogs/04-the-suckless-experience/</guid>
 		<description>&lt;hr&gt;
-&lt;h2 id=&#34;home--blogs--links&#34;&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Home&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/blogs&#34;&gt;Blogs&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/misc/links&#34;&gt;Links&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;home--blogs--links&#34;&gt;&lt;a href=&#34;http://localhost:46213/&#34;&gt;Home&lt;/a&gt; | &lt;a href=&#34;http://localhost:46213/blogs&#34;&gt;Blogs&lt;/a&gt; | &lt;a href=&#34;http://localhost:46213/misc/links&#34;&gt;Links&lt;/a&gt;&lt;/h2&gt;
 &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;So, after using AwesomeWM/Qtile on Arch Linux, I decided to try out Fedora for a little while with the KDE Desktop Environment.&lt;/p&gt;
 &lt;p&gt;Once I was done using KDE, I decided to switch back to Arch Linux and I decided to try out DWM.&lt;/p&gt;
@@ -64,7 +64,7 @@
 &lt;p&gt;An example of this is the fact DWM includes a bar by default when it isn&amp;rsquo;t needed (Xmonad doesn&amp;rsquo;t have one by default)&lt;/p&gt;
 &lt;p&gt;This is not to downplay DWM though as it is still a great peice of software.&lt;/p&gt;
 &lt;p&gt;Here is my current build of DWM:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/04-the-suckless-experience/dwm.png&#34; alt=&#34;DWM Build&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:46213/img/04-the-suckless-experience/dwm.png&#34; alt=&#34;DWM Build&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;st&#34;&gt;ST&lt;/h1&gt;
 &lt;p&gt;ST - Simple Terminal is a terminal emulator that is minimalistic while still supporting things like Unicode characters pretty well.&lt;/p&gt;
 &lt;p&gt;The only patch I added to ST is the ability to scrollback.&lt;/p&gt;
@@ -80,12 +80,12 @@
 	
 	<item>
 		<title>Switching over to Hugo</title>
-		<link>http://localhost:1313/blogs/03-switching-to-hugo/</link>
+		<link>http://localhost:46213/blogs/03-switching-to-hugo/</link>
 		<pubDate>Wed, 07 Aug 2024 16:38:01 -0400</pubDate>
 		
-		<guid>http://localhost:1313/blogs/03-switching-to-hugo/</guid>
+		<guid>http://localhost:46213/blogs/03-switching-to-hugo/</guid>
 		<description>&lt;hr&gt;
-&lt;h2 id=&#34;home--blogs--links&#34;&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Home&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/blogs&#34;&gt;Blogs&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/misc/links&#34;&gt;Links&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;home--blogs--links&#34;&gt;&lt;a href=&#34;http://localhost:46213/&#34;&gt;Home&lt;/a&gt; | &lt;a href=&#34;http://localhost:46213/blogs&#34;&gt;Blogs&lt;/a&gt; | &lt;a href=&#34;http://localhost:46213/misc/links&#34;&gt;Links&lt;/a&gt;&lt;/h2&gt;
 &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;Hello, It has been over two months since I last updated the website, You might be concerned but fear not, I am still here.&lt;/p&gt;
 &lt;p&gt;I have been experimenting with linux over the past two months and my modern system is way different than the old system.&lt;/p&gt;
@@ -107,12 +107,12 @@
 	
 	<item>
 		<title>My Clay Pot Making Experience</title>
-		<link>http://localhost:1313/blogs/02-the-pot-making-experience/</link>
+		<link>http://localhost:46213/blogs/02-the-pot-making-experience/</link>
 		<pubDate>Wed, 07 Aug 2024 16:25:03 -0400</pubDate>
 		
-		<guid>http://localhost:1313/blogs/02-the-pot-making-experience/</guid>
+		<guid>http://localhost:46213/blogs/02-the-pot-making-experience/</guid>
 		<description>&lt;hr&gt;
-&lt;h2 id=&#34;home--blogs--links&#34;&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Home&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/blogs&#34;&gt;Blogs&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/misc/links&#34;&gt;Links&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;home--blogs--links&#34;&gt;&lt;a href=&#34;http://localhost:46213/&#34;&gt;Home&lt;/a&gt; | &lt;a href=&#34;http://localhost:46213/blogs&#34;&gt;Blogs&lt;/a&gt; | &lt;a href=&#34;http://localhost:46213/misc/links&#34;&gt;Links&lt;/a&gt;&lt;/h2&gt;
 &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;Hello, So during State Testing, I was bored after taking the test due to the fact that I couldn&amp;rsquo;t do anything after the test until everybody was done the Test.&lt;/p&gt;
 &lt;p&gt;So I discovered I liked making Clay Pots. This was due to the fact that the person in my Test Room was an Art Teacher. I liked how it allowed me to express my creativity.&lt;/p&gt;
@@ -121,19 +121,19 @@
 &lt;p&gt;But Midway through making the Pot, something terrible happened. So apparently the Pot was too thick causing it to explode in the Kiln. I decided to keep going and make the Pot.&lt;/p&gt;
 &lt;p&gt;For the Glaze, I added a Dark-Blue Colored Glaze, When applying the glaze, it looked like a light-purple color but then when it came out the kiln it was indeed Dark-Blue.&lt;/p&gt;
 &lt;p&gt;Here is a photo of the Pot:
-&lt;img src=&#34;http://localhost:1313/img/02-the-pot-making-experience/clay_pot1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;http://localhost:46213/img/02-the-pot-making-experience/clay_pot1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;pot-numero-dos&#34;&gt;Pot Numero Dos&lt;/h1&gt;
 &lt;p&gt;After the first Pot, I decided to make another Pot, I was doing the same thing and then I realized I was making a rectangle shape so I decided to make a small container.&lt;/p&gt;
 &lt;p&gt;I had it in two parts, Part 1 was the container. Part 2 was a lid that went on top of the container.&lt;/p&gt;
 &lt;p&gt;Here is a photo of the Pot (Doesn&amp;rsquo;t have the lid):
-&lt;img src=&#34;http://localhost:1313/img/02-the-pot-making-experience/clay_pot2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;http://localhost:46213/img/02-the-pot-making-experience/clay_pot2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;the-class-pot&#34;&gt;The Class Pot&lt;/h1&gt;
 &lt;p&gt;After these Clay Pots, I had gotten assigned to make a clay pot. The way we did it was a slab pot where You would make it peice by peice and then slip and score to make the Pot.&lt;/p&gt;
 &lt;p&gt;What ended up happening when I tryed slipping and scoring the two ends of the walls was that the walls broke and they kept on breaking. I wanted a new clay slab for the walls.&lt;/p&gt;
 &lt;p&gt;What I ended up doing was shaping the clay, and Slipping and Scoring the Plastic to the Pastic -&amp;gt; LeatherHard Clay that was the bottom and the handle.&lt;/p&gt;
 &lt;p&gt;For the Glaze, I decided to use a bright red (it&amp;rsquo;s my favorite color). Turns out the Red Clay has a defect in that it isn&amp;rsquo;t as strong as the other clay, so instead of doing 3 coats. I had to do 5 coats with the red glaze.&lt;/p&gt;
 &lt;p&gt;Here is a photo of the Pot:
-&lt;img src=&#34;http://localhost:1313/img/02-the-pot-making-experience/clay_pot3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;http://localhost:46213/img/02-the-pot-making-experience/clay_pot3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
 &lt;p&gt;In the End, I really enjoyed making Clay Pots, I would recommend anybody who hasn&amp;rsquo;t made a clay pot to do so.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=yJTNmOYfVoI&#34;&gt;Here is a tutorial explaining how to make a Pinch Pot&lt;/a&gt;&lt;/p&gt;
@@ -142,17 +142,17 @@
 	
 	<item>
 		<title>My Personal System</title>
-		<link>http://localhost:1313/blogs/01-my-personal-system/</link>
+		<link>http://localhost:46213/blogs/01-my-personal-system/</link>
 		<pubDate>Wed, 07 Aug 2024 16:10:31 -0400</pubDate>
 		
-		<guid>http://localhost:1313/blogs/01-my-personal-system/</guid>
+		<guid>http://localhost:46213/blogs/01-my-personal-system/</guid>
 		<description>&lt;hr&gt;
-&lt;h2 id=&#34;home--blogs--links&#34;&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Home&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/blogs&#34;&gt;Blogs&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/misc/links&#34;&gt;Links&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;home--blogs--links&#34;&gt;&lt;a href=&#34;http://localhost:46213/&#34;&gt;Home&lt;/a&gt; | &lt;a href=&#34;http://localhost:46213/blogs&#34;&gt;Blogs&lt;/a&gt; | &lt;a href=&#34;http://localhost:46213/misc/links&#34;&gt;Links&lt;/a&gt;&lt;/h2&gt;
 &lt;h1 id=&#34;operating-system&#34;&gt;Operating System&lt;/h1&gt;
 &lt;p&gt;I use Linux as my main Operating System&lt;/p&gt;
 &lt;p&gt;Yes I know you are gonna say that it is infact &amp;ldquo;GNU/Linux&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;I know it is actually GNU/Linux&lt;/p&gt;
-&lt;p&gt;The Linux Distro I use is Arch Linux (btw): &lt;img src=&#34;http://localhost:1313/img/01-my-personal-system/arch.png&#34; alt=&#34;Arch Logo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The Linux Distro I use is Arch Linux (btw): &lt;img src=&#34;http://localhost:46213/img/01-my-personal-system/arch.png&#34; alt=&#34;Arch Logo&#34;&gt;&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -194,7 +194,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Here is a screenshot of my AwesomeWM config:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/01-my-personal-system/dotfiles1.png&#34; alt=&#34;Old Dotfiles&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:46213/img/01-my-personal-system/dotfiles1.png&#34; alt=&#34;Old Dotfiles&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;utilities&#34;&gt;Utilities&lt;/h1&gt;
 &lt;h2 id=&#34;basic-utils&#34;&gt;Basic Utils&lt;/h2&gt;
 &lt;p&gt;For my text editor, I have both &lt;a href=&#34;https://neovim.io&#34;&gt;Neovim&lt;/a&gt; and &lt;a href=&#34;https://github.com/doomemacs/doomemacs&#34;&gt;Doom Emacs&lt;/a&gt;&lt;/p&gt;
